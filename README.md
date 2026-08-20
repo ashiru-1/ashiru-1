@@ -2,8 +2,7 @@
 
 ### Software Engineer building across web, mobile & backend.
 
-I enjoy taking ideas from *“this could be useful”* to something people can actually use. I work mostly with TypeScript, React Native, Node.js, and PostgreSQL — and I’m learning Go to understand backend systems more deeply.
-
+I turn ideas into products people actually use.
 ### Right now
 
 🛠️ Building useful web and mobile products  
