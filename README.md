@@ -1,27 +1,42 @@
-# Hey, I’m David 👋🏽
+# David Ashiru
 
-Software Engineer building across web, mobile & backend.
+I build useful software across web, mobile, and backend.
 
-I work mainly with TypeScript, React Native, and Node.js, and I’m currently going deeper with Go.
+---
 
-## What I’m up to
+## Focus
 
-- Building useful products across web and mobile
-- Learning Go for backend systems, APIs, and developer tools
-- Exploring cloud engineering and security
-- Open to software engineering opportunities
+| Area | Direction |
+|---|---|
+| Product Engineering | Useful web and mobile experiences |
+| Backend Engineering | APIs, data, and reliable systems |
+| Developer Tools | Practical tools built while going deeper with Go |
+| Cloud & Security | Secure infrastructure foundations |
 
-## Some things I’ve built
+---
 
-- [**VeilCheck**](https://github.com/ashiru-1/VeilCheck) — A Starknet privacy preflight tool that explains transaction linkage risks before signing.
-- [**Flowva Rewards**](https://github.com/ashiru-1/flowva-rewards) — A full-stack loyalty and rewards system with streaks, referrals, and secure reward redemption.
-- [**AI Resume Analyzer**](https://github.com/ashiru-1/ai-resume-analyzer) — An AI-powered tool that scores resumes and provides actionable ATS feedback.
+## Selected Work
 
-## My toolbox
+| Project | What it does |
+|---|---|
+| [**VeilCheck**](https://github.com/ashiru-1/VeilCheck) | Explains transaction privacy risks before a user signs on Starknet |
+| [**Flowva Rewards**](https://github.com/ashiru-1/flowva-rewards) | Full-stack rewards system with streaks, referrals, and secure redemption |
+| [**AI Resume Analyzer**](https://github.com/ashiru-1/ai-resume-analyzer) | Scores resumes and gives actionable ATS feedback |
 
-`TypeScript` · `JavaScript` · `Go` · `React` · `React Native` · `Node.js` · `PostgreSQL` · `Supabase` · `Prisma` · `Docker`
+---
 
-## Let’s connect
+## Stack
 
-- [ashiru.xyz](https://ashiru.xyz)
-- [davidadesola007@gmail.com](mailto:davidadesola007@gmail.com)
+TypeScript, JavaScript, Go, React, React Native, Node.js, PostgreSQL, Supabase, Prisma, Docker.
+
+---
+
+## Principle
+
+Build clearly.  
+Learn deeply.  
+Ship useful software.
+
+---
+
+[Website](https://ashiru.xyz) · [Email](mailto:davidadesola007@gmail.com)
