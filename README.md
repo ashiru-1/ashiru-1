@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hey, I’m David 👋🏽
 
-<!--
-**ashiru-1/ashiru-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer building across web, mobile & backend.
 
-Here are some ideas to get you started:
+I work mainly with TypeScript, React Native, and Node.js, and I’m currently going deeper with Go.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I’m up to
+
+- Building useful products across web and mobile
+- Learning Go for backend systems, APIs, and developer tools
+- Exploring cloud engineering and security
+- Open to software engineering opportunities
+
+## Some things I’ve built
+
+- [**VeilCheck**](https://github.com/ashiru-1/VeilCheck) — A Starknet privacy preflight tool that explains transaction linkage risks before signing.
+- [**Flowva Rewards**](https://github.com/ashiru-1/flowva-rewards) — A full-stack loyalty and rewards system with streaks, referrals, and secure reward redemption.
+- [**AI Resume Analyzer**](https://github.com/ashiru-1/ai-resume-analyzer) — An AI-powered tool that scores resumes and provides actionable ATS feedback.
+
+## My toolbox
+
+`TypeScript` · `JavaScript` · `Go` · `React` · `React Native` · `Node.js` · `PostgreSQL` · `Supabase` · `Prisma` · `Docker`
+
+## Let’s connect
+
+- [ashiru.xyz](https://ashiru.xyz)
+- [davidadesola007@gmail.com](mailto:davidadesola007@gmail.com)
